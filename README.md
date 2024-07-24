@@ -1,2 +1,0 @@
-- Hi, I’m @OrhancCilingiroglu,
-- a security engineer
