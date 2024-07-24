@@ -1,3 +1,2 @@
-- Hi, I’m @OrhancCilingiroglu, a senior grade electronics student at Istanbul Technical University.
-- I’m interested in Cyber security, secure software development...
-- I’m currently learning artificial neural networks and cyber security.
+- Hi, I’m @OrhancCilingiroglu,
+- a security engineer
